@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fouad Makiyeh
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision and Robotics.
-- 🎓 MS in Applied mathematics, robotics and vision @ [Mines ParisTech] (https://www.minesparis.psl.eu/).
+- 🎓 MS in Applied mathematics, robotics and vision @ [Mines ParisTech](https://www.minesparis.psl.eu/).
 - 💞️ I’m actually a PhD student @[Inria](https://www.inria.fr/en) in visual servoing for deformable object tracking and deformation.
 
 <!---
